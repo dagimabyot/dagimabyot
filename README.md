@@ -1,53 +1,102 @@
-<h1 align="center">Hi 👋, I'm Dagim Abyot</h1>
-<h3 align="center">Frontend Developer | Problem Solver | Lifelong Learner</h3>
+# <h1 align="center">Hi 👋, I'm Dagim Abyot</h1>
+
+<h3 align="center">
+Computer Engineer | Full Stack Developer | React & TypeScript Developer | AI Enthusiast
+</h3>
+
+<p align="center">
+  <a href="https://github.com/dagimabyot">
+    <img src="https://komarev.com/ghpvc/?username=dagimabyot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a frontend developer focused on building clean, responsive, and user-friendly web applications. I enjoy solving problems, learning new technologies, and continuously improving my skills through real-world projects.
+I'm a **Computer Engineering graduate** from Addis Ababa Science and Technology University (AASTU) with a passion for building modern, scalable, and user-friendly web applications.
 
-- 🌱 Currently working on **frontend web development projects**
-- 🚀 Improving my skills in **React, TypeScript, and Tailwind CSS**
-- 📫 Reach me at: **dagim045@gmail.com**
-- 📍 Based in **Ethiopia**
+I enjoy turning ideas into real products using modern technologies and continuously expanding my skills in full-stack development, AI, and software engineering.
+
+* 🎓 Computer Engineering Graduate
+* 💻 Full Stack Web Developer
+* 🌱 Currently building production-ready web applications
+* 🚀 Interested in AI, Web Development, and Software Engineering
+* 📍 Addis Ababa, Ethiopia
+* 📧 **Email:** [dagim045@gmail.com](mailto:dagim045@gmail.com)
 
 ---
 
-## Skills & Technologies
+# 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+### Frontend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/>
 </p>
 
 ---
 
-## What I’m Working On
+# 🚀 Featured Projects
 
-- Building modern frontend applications using **React & TypeScript**
-- Improving UI/UX design and responsiveness
-- Strengthening problem-solving and clean code practices
+### 🛍 Hageregna Shoes E-commerce
+
+Modern shoe e-commerce platform with:
+
+* Admin Dashboard
+* Product Management
+* Authentication
+* Shopping Cart
+* Checkout
+* Responsive Design
+
+**Tech:** React, TypeScript, Tailwind CSS, Supabase
 
 ---
 
-## Connect with Me
+### 💳 CBE Subscription Management System
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dagim-abyot/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <a href="https://twitter.com/dagim045" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>
-  </a>
-  <a href="mailto:dagim045@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="30" height="30"/>
-  </a>
-  <a href="https://t.me/dagiabyot" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30"/>
-  </a>
-</p>
+A subscription management system developed during my internship.
+
+**Tech:** React, TypeScript, Tailwind CSS
+
+---
+
+### 🎬 CineVerse
+
+Movie discovery website using the TMDB API featuring:
+
+* Movie Search
+* Trending Movies
+* Categories
+
